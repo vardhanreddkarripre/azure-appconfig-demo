@@ -1,8 +1,10 @@
 Prerequisites: 
+
 1. Fork the below repo
 Github Repo link:
 https://github.com/ibnehussain/azure-appconfig-demo.git
 2. Admin access to create Managed Identity
+
 Lab: 
 Step 1: Create an Azure App Configuration Store
 •	Go to the Azure Portal.
